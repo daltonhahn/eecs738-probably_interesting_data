@@ -2,6 +2,7 @@ eecs738-probably_interesting_data
 ==============================
 
 Ron Andrews (1083734)
+&
 Dalton Hahn (2762306)
 
 Distribution estimation
