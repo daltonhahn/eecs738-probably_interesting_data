@@ -1,6 +1,9 @@
 eecs738-probably_interesting_data
 ==============================
 
+Ron Andrews (1083734)
+Dalton Hahn (2762306)
+
 Distribution estimation
 -----------------------
 1. Set up a new git repository in your GitHub account
@@ -11,6 +14,14 @@ Distribution estimation
 6. Document your process and results
 7. Commit your source code, documentation and other supporting files to the git repository in GitHub
 
+Datasets
+--------
+1. https://www.kaggle.com/uciml/msd-audio-features
+2. https://www.kaggle.com/uciml/posture-reconstruction
+
+Note: Dateset 1 is too large to store on GitHub and will need to be downloaded to run
+
+
 Project Organization
 ------------
 
@@ -18,7 +29,8 @@ Project Organization
     ├── README.md          <- The top-level README for developers using this project.
     ├── data
     │   └── external       <- Data from third party sources.
-    └── notebooks          <- Two notebooks, one for each dataset modeled, each are self contained and include documentation
+    └── notebooks          <- Two notebooks, one for each dataset modeled, each are self 
+                              contained and include documentation
 
 --------
 
